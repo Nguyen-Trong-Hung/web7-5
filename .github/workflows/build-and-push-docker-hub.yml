@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: amunra17/cicd2024:Flag
+          tags: amunra17/cicd2024:staging
 
 
   pull-and-up:
